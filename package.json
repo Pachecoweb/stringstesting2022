@@ -1,0 +1,27 @@
+{
+    "name": "pruebas_cadenas",
+    "version": "1.0.0",
+    "description": "Area de experimentos de cadenas y metodos para su mejor eficiencia en el desarrollo web con textos.",
+    "main": "index.js",
+    "scripts": {
+        "stringTests": "node stringsTests.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pachecoweb/stringstesting2022.git"
+    },
+    "keywords": [
+        "strings",
+        "testing",
+        "string_Methods",
+        "string",
+        "tips"
+    ],
+    "author": "Diego Pacheco Baca",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Pachecoweb/stringstesting2022/issues"
+    },
+    "homepage": "https://github.com/Pachecoweb/stringstesting2022#readme"
+}

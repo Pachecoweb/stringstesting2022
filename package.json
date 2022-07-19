@@ -4,6 +4,7 @@
     "description": "Area de experimentos de cadenas y metodos para su mejor eficiencia en el desarrollo web con textos.",
     "main": "index.js",
     "scripts": {
+        "stringsHomework": "node stringsHomework.js",
         "stringTests": "node stringsTests.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
